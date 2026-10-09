@@ -1,0 +1,31 @@
+{
+  "name": "CharterCraft Pro - Nền Tảng Thiết Lập Hiến Chương Doanh Nghiệp",
+  "short_name": "CharterCraft",
+  "description": "Giải pháp toàn diện hỗ trợ các nhà sáng lập, lãnh đạo tổ chức và đội nhóm biên soạn, biểu quyết và thực thi Hiến chương Vận hành, Quy chuẩn Ứng xử cùng Nguyên tắc Làm việc minh bạch, giúp xây dựng văn hóa cam kết bền vững.",
+  "start_url": "/",
+  "id": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#030712",
+  "theme_color": "#0f172a",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": [
+    "productivity",
+    "utilities"
+  ],
+  "lang": "vi"
+}
